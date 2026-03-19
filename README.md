@@ -1,2 +1,2 @@
 # Quiz-Application
-Quiz Application using Python.
+ Basic Quiz Application built using Python.
